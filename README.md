@@ -2,7 +2,7 @@
 
 📄 This is a simple web-based resume CV project created using HTML, CSS, and JavaScript.
 
-![Project Screenshot](screenshot.png)
+![image](https://github.com/pitabasdev/portfolio-profile/assets/85897297/f56d3a5e-40e3-41b0-9c40-c63e2c257898)
 
 ## Features
 
